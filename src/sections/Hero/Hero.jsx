@@ -53,7 +53,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for automating cloud solutions for commercial businesses
+          With a passion for automating cloud solutions for commercial 
           businesses.
         </p>
         <a href={CV} download>
